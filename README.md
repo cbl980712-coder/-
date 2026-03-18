@@ -1,9 +1,7 @@
 # binance-square-dual-lane-kit
 
-Download the packaged skill here:
+Public release package for direct download:
 
 - [binance-square-dual-lane-kit.skill](./binance-square-dual-lane-kit.skill)
 
-## Install
-
-Download `binance-square-dual-lane-kit.skill` and install it with your OpenClaw-compatible workflow.
+This published package is the reviewed public build that keeps the dual-lane workflow surface while removing publish-unsafe local secret paths.
